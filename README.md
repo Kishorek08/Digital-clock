@@ -46,39 +46,6 @@ digital-clock/ │── index.html │── style.css │── timer.js └�
 
 ---
 
-## 🔧 How It Works
-
-The clock updates using JavaScript's Date() function and setInterval():
-
-```js
-setInterval(() => {
-  const time = new Date();
-  const hours = time.getHours();
-  const minutes = time.getMinutes();
-  const seconds = time.getSeconds();
-  
-  // Update HTML elements here
-}, 1000);
-
-
----
-
-▶ How to Run Locally
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/digital-clock.git
-
-
-2. Open index.html in your browser.
-
-
-3. Clock will start automatically.
-
-
-
-
----
 
 🤝 Contributing
 
