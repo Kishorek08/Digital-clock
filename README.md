@@ -8,17 +8,8 @@ It shows the current time in *hours, minutes, and seconds*, updating every secon
 
 ## 🌐 Live Demo
 
-🔗 *View Project:* https://your-username.github.io/digital-clock/  
+🔗 *View Project:* https://kishorek08.github.io/Digital-clock/ 
 (Replace with your actual GitHub Pages URL)
-
----
-
-## ⭐ Project Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/digital-clock)
-![GitHub stars](https://img.shields.io/github/stars/your-username/digital-clock?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/digital-clock?style=social)
-![GitHub license](https://img.shields.io/github/license/your-username/digital-clock)
 
 ---
 
