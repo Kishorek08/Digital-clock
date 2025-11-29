@@ -8,7 +8,7 @@ It shows the current time in *hours, minutes, and seconds*, updating every secon
 
 ## 🌐 Live Demo
 
-🔗 *View Project:* https://kishorek08.github.io/Digital-clock/ 
+🔗 *View Project:* https://Kishorek08.github.io/Digital-clock/ 
 
 
 ---
