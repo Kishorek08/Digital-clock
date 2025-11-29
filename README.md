@@ -9,7 +9,7 @@ It shows the current time in *hours, minutes, and seconds*, updating every secon
 ## 🌐 Live Demo
 
 🔗 *View Project:* https://kishorek08.github.io/Digital-clock/ 
-(Replace with your actual GitHub Pages URL)
+
 
 ---
 
